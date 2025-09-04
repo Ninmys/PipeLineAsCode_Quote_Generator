@@ -1,0 +1,1 @@
+# PipeLineAsCode_Quote_Generator
