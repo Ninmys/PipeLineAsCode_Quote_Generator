@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 const quotes = [
-  "🚀 Keep pushing forward!",
+  "🚀 Keeps pushing forward!",
   "🔥 Code, test, deploy, repeat.",
   "🌟 Every bug is an opportunity to learn.",
   "💡 Simplicity is the soul of efficiency."
